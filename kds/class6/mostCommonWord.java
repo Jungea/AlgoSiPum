@@ -6,10 +6,10 @@ public class mostCommonWord {
     public static void main(String[] args) {
         String paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.";
         String[] banned = {"hit"};
-        mostCommonWord(paragraph, banned);
+        mostCommon(paragraph, banned);
     }
 
-    public static String mostCommonWord(String paragraph, String[] banned) {
+    public static String mostCommon(String paragraph, String[] banned) {
         Set<String> ban = new HashSet<>(Arrays.asList(banned));
 
         String[] list = paragraph.replaceAll("\\W+"," ").toLowerCase().split(" ");
