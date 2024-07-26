@@ -1,4 +1,4 @@
-package kds.class6;
+package kds.week1;
 
 public class longestPalindrome {
     static int left = 0;
