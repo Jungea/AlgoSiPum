@@ -4,6 +4,7 @@
 ## 관련링크
 - [🔗leetcode 문제모음](https://leetcode.com/problem-list/mzlofpes/)
 - [🔗github](https://github.com/onlybooks/java-algorithm-interview)
+- [🔗랜덤숫자뽑기](https://jungea.github.io/pickNumber.html)
 
 ## 문제목록
 |           | 장                       |     | 제목                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
